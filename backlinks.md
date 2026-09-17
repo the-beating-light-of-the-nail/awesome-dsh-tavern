@@ -7,7 +7,7 @@
 |---|---|---|---|---|---|---|
 | 2026-09-11 | 609476965/dsh-LorebookMD | issue | 制卡与世界书 | https://github.com/609476965/dsh-LorebookMD/issues/1 | open | 收录告知：专区页 + 详情页 + 清单链接；脚本故障曾重复发送，重复项已关闭，保留最早一条 |
 | 2026-09-11 | Amakurai/dsh-liketavern | issue | 酒馆管理面板 | https://github.com/Amakurai/dsh-liketavern/issues/1 | closed | 2026-09-17 巡查：维护者回复「感谢收录」后关闭 | 收录告知：专区页 + 详情页 + 清单链接；脚本故障曾重复发送，重复项已关闭，保留最早一条 |
-| 2026-09-11 | xia-sc/dsh-cc-studio | issue | 制卡与世界书 | https://github.com/xia-sc/dsh-cc-studio/issues/3 | open | 收录告知：专区页 + 详情页 + 清单链接；脚本故障曾重复发送，重复项已关闭，保留最早一条 |
+| 2026-09-11 | xia-sc/dsh-cc-studio | issue | 制卡与世界书 | https://github.com/xia-sc/dsh-cc-studio/issues/3 | closed | 2026-09-19 巡查：维护者处理完成（reason=completed，issue 标题已确认收进酒馆专区）；原备注：收录告知，脚本故障重复项已关闭 |
 | 2026-09-11 | LingyeSoul/dsh-tavern | issue | 酒馆管理面板 | https://github.com/LingyeSoul/dsh-tavern/issues/1 | open | 收录告知：专区页 + 详情页 + 清单链接；脚本故障曾重复发送，重复项已关闭，保留最早一条 |
 | 2026-09-11 | LiweiDonVee/dsh-rp-studio | issue | Agent RP 运行时 | https://github.com/LiweiDonVee/dsh-rp-studio/issues/1 | open | 收录告知：专区页 + 详情页 + 清单链接；脚本故障曾重复发送，重复项已关闭，保留最早一条 |
 | 2026-09-11 | LiweiDonVee/dsh-tavern-renderer | issue | 输入与渲染增强 | https://github.com/LiweiDonVee/dsh-tavern-renderer/issues/1 | open | 收录告知：专区页 + 详情页 + 清单链接；脚本故障曾重复发送，重复项已关闭，保留最早一条 |
