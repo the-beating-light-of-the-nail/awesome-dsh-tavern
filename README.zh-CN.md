@@ -71,6 +71,7 @@
 - [oliblue-evan/dsh-roleplay-preset](https://github.com/oliblue-evan/dsh-roleplay-preset) — DeepSeek 深度调校的沉浸式 RP Agent 预设：零工具纯对话、酒馆式演出格式、文件记忆库。⭐19 · 更新 2026-09-01
 - [loonai321/dsh-humanized-deepseek-maid](https://github.com/loonai321/dsh-humanized-deepseek-maid) — 可配置的鲸鱼娘女仆人格：沉浸式扮演 + 分层记忆按需召回。⭐5 · 更新 2026-08-26
 - [ajuwm/dsh-roleplay-plugin](https://github.com/ajuwm/dsh-roleplay-plugin) — 以角色扮演为主体、桌宠为附加功能。⭐1 · 更新 2026-09-10
+- [ShokouP/dsh-tea-party-mode](https://github.com/ShokouP/dsh-tea-party-mode) — 角色茶话会 Agent 预设：8 位大模型娘在一个会话里围桌语c，聊天中每条台词带角色头像（零工具预设，无需额外服务）。
 
 ## 生态资源
 
