@@ -71,6 +71,7 @@ Native panels for multiple character cards, worldbooks and presets.
 - [oliblue-evan/dsh-roleplay-preset](https://github.com/oliblue-evan/dsh-roleplay-preset) — Immersive RP agent preset tuned for DeepSeek: zero-tool pure conversation, tavern-style performance formatting, file-based memory store. ⭐19 · updated 2026-09-01
 - [loonai321/dsh-humanized-deepseek-maid](https://github.com/loonai321/dsh-humanized-deepseek-maid) — Configurable whale-girl maid persona: immersive roleplay plus layered memory with on-demand recall. ⭐5 · updated 2026-08-26
 - [ajuwm/dsh-roleplay-plugin](https://github.com/ajuwm/dsh-roleplay-plugin) — Roleplay as the core, desktop pet as a bonus. ⭐1 · updated 2026-09-10
+- [ShokouP/dsh-tea-party-mode](https://github.com/ShokouP/dsh-tea-party-mode) — Character Tea Party agent preset: eight LLM-girl characters roleplay around a tea table in one session, with per-line speaker avatars in chat (zero-tool preset, no hosted service).
 
 ## Ecosystem Resources
 
